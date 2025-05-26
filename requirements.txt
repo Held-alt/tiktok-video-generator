@@ -1,6 +1,1 @@
 Flask==2.3.2
-openai
-gtts
-moviepy
-requests
-
