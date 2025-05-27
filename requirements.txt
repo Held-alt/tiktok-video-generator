@@ -1,1 +1,8 @@
-Flask==2.3.2
+fastapi
+uvicorn
+openai
+replicate
+elevenlabs
+python-multipart
+moviepy
+tqdm
